@@ -1,3 +1,21 @@
+@font-face {
+  font-family: Rubik;
+  src: url('./Assets/Fonts/Rubik-Bold.ttf');
+  font-weight: 800;
+}
+
+@font-face {
+  font-family: Rubik;
+  src: url('./Assets/Fonts/Rubik-Medium.ttf');
+  font-weight: 600;
+}
+
+@font-face {
+  font-family: Rubik;
+  src: url('./Assets/Fonts/Rubik-Regular.ttf');
+  font-weight: 400;
+}
+
 .App {
   text-align: center;
 }
