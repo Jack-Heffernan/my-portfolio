@@ -1,8 +1,10 @@
 import './App.css';
+import NavBar from './Components/NavBar';
+
 
 function App() {
   return (
-    <h1>Welcome to my portfolio website.</h1>
+    <NavBar />
   );
 }
 
