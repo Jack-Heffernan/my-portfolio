@@ -25,7 +25,7 @@ body {
   font-weight: 400;
   overflow-x: hidden;
   position: relative;
-  background-color: #121212 !important;
+  background: linear-gradient(135deg, #121212, #1d1d1d, #252525) !important;
   color: white !important;
   font-family: 'Rubik', sans-serif !important;
 }
@@ -124,6 +124,7 @@ nav.navbar .navbar-toggler-icon:before {
 .hero .tagline {
   font-weight: 700;
   letter-spacing: 0.8px;
+  border-radius: 18px;
   padding: 8px 10px;
   border: 1px solid rgba(255, 255, 255, 1);
   font-size: 20px;

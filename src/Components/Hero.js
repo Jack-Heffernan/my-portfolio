@@ -32,10 +32,10 @@ const Hero = () => {
           <Col xs={12} md={6} xl={5}>
             <div className="rotating-icons">
               <h2 className="base"><FaCode /></h2>
-              <a className="social-icon icon-1" href="https://linkedin.com">
+              <a className="social-icon icon-1" href="https://www.linkedin.com/in/jackheffernan-/">
                 <FaLinkedin />
               </a>
-              <a className="social-icon icon-2" href="https://github.com">
+              <a className="social-icon icon-2" href="https://github.com/Jack-Heffernan">
                 <FaGithub />
               </a>
               <a className="social-icon icon-3" href="https://twitter.com">
