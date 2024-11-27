@@ -1,6 +1,6 @@
 import React from 'react';
 import { Container, Row, Col  } from 'react-bootstrap';
-import { FaLinkedin, FaGithub, FaTwitter } from 'react-icons/fa'; 
+import { FaLinkedin, FaGithub, FaTwitter, FaCode,  } from 'react-icons/fa'; 
 
 const Hero = () => {
   return (
@@ -17,7 +17,7 @@ const Hero = () => {
           </Col>
           <Col xs={12} md={6} xl={5}>
             <div className="rotating-icons">
-              <h2 className="base">test</h2>
+              <h2 className="base"><FaCode /></h2>
               <a className="social-icon icon-1" href="https://linkedin.com">
                 <FaLinkedin />
               </a>
