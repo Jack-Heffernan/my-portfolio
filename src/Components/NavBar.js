@@ -46,7 +46,7 @@ const NavBar = () => {
                 <a href="#"><img src={''} alt="" /></a>
                 <a href="#"><img src={''} alt="" /></a>
             </div>
-            <button className='' onClick={() => console.log('success')}><span>Let's get connected!</span>
+            <button className='' onClick={() => console.log('success')}>
             </button>
           </span>
         </Navbar.Collapse>

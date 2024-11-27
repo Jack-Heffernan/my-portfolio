@@ -15,15 +15,15 @@ const Skills = () => {
                         <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.<br></br> Lorem Ipsum has been the industry's standard dummy text.</p>
                         <Carousel  infinite={true} indicators={false} className="skill-slider">
                             <div className="carousel-item item">
-                            <FaJsSquare/>
+                            <FaJsSquare className="skill-icon" />
                                 <h5>Javascript</h5>
                             </div>
                             <div className="carousel-item item">
-                            <FaCss3Alt />
+                            <FaCss3Alt className="skill-icon"/>
                                 <h5>CSS</h5>
                             </div>
                             <div className="carousel-item item">
-                            <FaPhp />
+                            <FaPhp className="skill-icon"/>
                                 <h5>PHP</h5>
                             </div>
                         </Carousel>
